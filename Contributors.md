@@ -3,6 +3,7 @@
 - [Sylvia Liu](https://github.com/sylvialiu0514)
 - [Muhammad Raza](https://github.com/mrazam110)
 - [Pedro Telleria](https://github.com/guerrerocing)
+- [Vibe](https://github.com/vibe06103)
 - [Anushree](https://github.com/anushree816)
 - [gilded1](https://github.com/gilded1)
 - [Ankit Kumar Maurya](https://github.com/mauryaankitsh)
